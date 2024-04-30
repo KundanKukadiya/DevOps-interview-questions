@@ -1,7 +1,7 @@
 ## Table of Contents
 
-- <a href="https://github.com/KundanKukadiya/DevOps-interview-questions/edit/master/README.md#basics">Basics</a>
-- [Devops](#devops)
+- [Basics](#Basics)
+- [Devops](#Devops)
 - [Docker](#Docker)
 - [Ansible](#Ansible)
 - [Terraform](#Terraform)
